@@ -1,0 +1,13 @@
+numpy==1.21.4
+pandas>=0.19
+sklearn
+pickle-mixin==1.0.2
+streamlit==1.0.2
+streamlit-option-menu==0.3.2
+scikit-learn=1.0.1
+protobuf==3.20.1
+matplotlib>=1.4.3
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+gunicorn==19.9.0
+Flask==1.1.1
